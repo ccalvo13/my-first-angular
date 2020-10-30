@@ -1,0 +1,10 @@
+.online { color: white; }
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    display: table;
+    padding: 5px;
+    margin-bottom: 5px;
+}
